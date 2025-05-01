@@ -17,7 +17,7 @@ A Model Context Protocol (MCP) server for interacting with GitHub.
      - `repo` (Full control of private repositories)
      - `user` (Read and write user profile data)
    - Click "Generate token"
-   - **⚠️ Copy your token immediately!** GitHub will only show it once.
+   - **Copy your token immediately!** GitHub will only show it once.
 
 3. Set up your environment variables:
    - Copy the provided `.env` file template
